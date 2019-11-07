@@ -1,0 +1,9 @@
+{
+  "name": "auth",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
